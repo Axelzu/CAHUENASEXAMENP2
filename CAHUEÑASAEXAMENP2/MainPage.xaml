@@ -8,7 +8,7 @@
                FontSize="24"
                HorizontalOptions="Center"/>
 
-        <Image Source="maui_logo.png" 
+        <Image Source="imagen_2025-06-02_075920763.png" 
                HeightRequest="150" 
                HorizontalOptions="Center" />
 
