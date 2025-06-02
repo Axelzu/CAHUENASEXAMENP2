@@ -8,7 +8,7 @@
                FontSize="24"
                HorizontalOptions="Center"/>
 
-        <Image Source="imagen_2025-06-02_075920763.png" 
+        <Image Source="dotnet_bot.png" 
                HeightRequest="150" 
                HorizontalOptions="Center" />
 
