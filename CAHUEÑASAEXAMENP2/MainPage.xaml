@@ -8,7 +8,7 @@
                FontSize="24"
                HorizontalOptions="Center"/>
 
-        <Image Source="dotnet_bot.png" 
+        <Image Source="imagen.png" 
                HeightRequest="150" 
                HorizontalOptions="Center" />
 
@@ -17,6 +17,7 @@
 
         <Button Text="about"
                 Clicked="OnAboutClicked"/>
+    
     </StackLayout>
 
 </ContentPage>
